@@ -1,2 +1,2 @@
-# recupera-o
+# recuperação
 Site de conversão de temperatura
